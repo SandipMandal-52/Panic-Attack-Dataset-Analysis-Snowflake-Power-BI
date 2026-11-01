@@ -2,6 +2,9 @@
 
 An end-to-end descriptive data analysis project using **Snowflake SQL** and **Microsoft Power BI**. The project explores a sample dataset of 1,200 records and presents the results through a four-page interactive dashboard.
 
+<img width="1672" height="941" alt="Panic Attack Data Analysis Thumbnail" src="https://github.com/user-attachments/assets/097dc7d8-2bde-473a-9c39-db6405aeac35" />
+
+
 ## Project Overview
 
 The analysis examines recorded panic-attack duration, trigger categories, age and gender groups, sleep-hour categories, medical-history values, and medication/therapy combinations.
@@ -42,10 +45,18 @@ Main fields include age, gender, panic attack frequency, duration, trigger, hear
 
 ## Dashboard Pages
 
-1. **Panic Attack Overview**: headline KPIs and overall record distributions.
-2. **Attack Duration & Trigger Analysis**: duration groups and average duration by trigger.
-3. **Demographic Analysis**: record distribution and metrics by age and gender.
-4. **Lifestyle & Medical History Analysis**: sleep groups and medical-history categories.
+ **Panic Attack Overview**: headline KPIs and overall record distributions.
+   <img width="1216" height="691" alt="exe" src="https://github.com/user-attachments/assets/679b9124-876b-4ca1-903b-21a674a530a0" />
+
+ **Attack Duration & Trigger Analysis**: duration groups and average duration by trigger.
+   <img width="1212" height="686" alt="Duration" src="https://github.com/user-attachments/assets/a1ce426e-626e-43b6-9663-732f91c99daf" />
+
+ **Demographic Analysis**: record distribution and metrics by age and gender.
+ <img width="1216" height="692" alt="Demographics" src="https://github.com/user-attachments/assets/a0c47472-d2ac-4908-b326-8678bc6f74f9" />
+
+ **Lifestyle & Medical History Analysis**: sleep groups and medical-history categories.
+   <img width="1212" height="692" alt="Lifestyle" src="https://github.com/user-attachments/assets/88642143-3792-476c-ab5b-46d6eeb1dd78" />
+
 
 ## Selected Findings
 
@@ -125,9 +136,11 @@ Use consistent duration groups:
 - Detailed project report.
 - Project presentation.
 
-## Author
+## 👤 Author
 
-Add your name, LinkedIn profile, and GitHub profile here.
+**Sandip Mandal** —  Data Analyst
+📍 Nagpur, Maharashtra, India
+🔗 [LinkedIn](https://linkedin.com/in/sandipmandal52) | [GitHub](https://github.com/SandipMandal-52) | 📧 sandipmandalcv@gmail.com
 
 ---
 
